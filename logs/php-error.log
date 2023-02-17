@@ -1,0 +1,17 @@
+[20-Oct-2022 15:01:48 Europe/Zagreb] PHP Warning:  require_once(C:/laragon/www/empress/templates/shop/product.php): Failed to open stream: No such file or directory in C:\laragon\www\empress\pages\shop\soulmate.php on line 3
+[20-Oct-2022 15:01:48 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Failed opening required 'C:/laragon/www/empress/templates/shop/product.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\empress\pages\shop\soulmate.php:3
+Stack trace:
+#0 C:\laragon\www\empress\index.php(12): include()
+#1 {main}
+  thrown in C:\laragon\www\empress\pages\shop\soulmate.php on line 3
+[20-Oct-2022 15:02:09 Europe/Zagreb] PHP Warning:  require_once(C:/laragon/www/empress/templates/shop/product.php): Failed to open stream: No such file or directory in C:\laragon\www\empress\pages\shop\soulmate.php on line 3
+[20-Oct-2022 15:02:09 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Failed opening required 'C:/laragon/www/empress/templates/shop/product.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\empress\pages\shop\soulmate.php:3
+Stack trace:
+#0 C:\laragon\www\empress\index.php(12): include()
+#1 {main}
+  thrown in C:\laragon\www\empress\pages\shop\soulmate.php on line 3
+[20-Oct-2022 17:24:51 Europe/Zagreb] PHP Warning:  Undefined array key "PATH_INFO" in C:\laragon\www\empress\index.php on line 30
+[20-Oct-2022 17:24:54 Europe/Zagreb] PHP Warning:  Undefined array key "PATH_INFO" in C:\laragon\www\empress\index.php on line 30
+[20-Oct-2022 17:26:58 Europe/Zagreb] PHP Warning:  Undefined array key "PATH_INFO" in C:\laragon\www\empress\index.php on line 30
+[20-Oct-2022 17:27:35 Europe/Zagreb] PHP Warning:  Undefined array key "PATH_INFO" in C:\laragon\www\empress\index.php on line 30
+[20-Oct-2022 18:28:22 Europe/Zagreb] PHP Warning:  Undefined array key "PATH_INFO" in C:\laragon\www\empress\index.php on line 30
